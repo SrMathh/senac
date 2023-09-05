@@ -1,0 +1,16 @@
+.pai{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+}
+.titulo{
+    font-style: italic;
+    margin: 19px 0 19px 0;
+}
+.rodape1{
+    font-style: italic;
+}
+.filho{
+    margin: 5px;
+}

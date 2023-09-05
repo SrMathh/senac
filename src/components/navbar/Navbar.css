@@ -1,0 +1,18 @@
+.Nav{
+    background-color: black;
+    color: white;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+}
+.conteudo{
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+    font-size: larger;
+}
+.logo{
+    display: flex;
+    min-width: 550px;
+    align-items: center;
+}
